@@ -1,0 +1,33 @@
+_repo: The-Century-Handbook-of-Writing_30294
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Jones, Easley S. (Easley Stephen)
+    alias: Jones, Easley Stephen
+    birthdate: 1884
+    deathdate: 1947
+    gutenberg_agent_id: '34500'
+    url: http://www.gutenberg.org/2009/agents/34500
+  - agent_name: Greever, Garland
+    alias: Greever, Gustavus Garland
+    birthdate: 1883
+    deathdate: 1967
+    gutenberg_agent_id: '4786'
+    url: http://www.gutenberg.org/2009/agents/4786
+description: ''
+gutenberg_issued: '2009-10-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30294'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Rhetoric'
+- !lcc 'PE'
+title: The Century Handbook of Writing
+url: http://www.gutenberg.org/ebooks/30294
