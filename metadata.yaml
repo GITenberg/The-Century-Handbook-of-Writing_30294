@@ -18,6 +18,8 @@ creator:
     gutenberg_agent_id: '4786'
     url: http://www.gutenberg.org/2009/agents/4786
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30294#The-Century-Handbook-of-Writing
 gutenberg_issued: '2009-10-20'
 gutenberg_type: Text
 identifiers:
